@@ -1,6 +1,6 @@
 # Amazon Ürün Bilgisi Çekme
 
-Bu Python betiği, Amazon web sitesinde belirli bir anahtar kelime ile yapılan bir arama sonucu bulunan ürünlerin detaylı bilgilerini çekmek için kullanılır. 
+Bu Python uygulaması, Amazon web sitesinde belirli bir anahtar kelime ile yapılan bir arama sonucu bulunan ürünlerin detaylı bilgilerini çekmek için kullanılır. 
 
 ## Kullanım
 
